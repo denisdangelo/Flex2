@@ -12,4 +12,4 @@ repositorio para o aplicativo pwa Flex2
 ## Dowload do APP
 Escaneie o QRCode para ser direcionado ao site que hospeda o aplicativo. Adicione a tela inicial e instale o APP seguindo as informações do seu Smatphone.
 
-
+![](img/qrcode.png)
